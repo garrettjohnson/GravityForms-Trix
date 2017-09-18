@@ -1,7 +1,8 @@
 <?php
 /*
-Plugin Name: Trix for Gravity Forms
+Plugin Name: Gravity Forms Trix Editor Add-On
 Description: Use the Trix rich text editor in Gravity Forms
+Plugin URI: https://github.com/garrettjohnson/GravityForms-Trix
 Version: 1.0.0
 Author: Garrett Johnson
 Author URI: http://garrett.io
